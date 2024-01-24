@@ -1,3 +1,3 @@
 # convert_pdf_2_word
 
-Convert PDF to Word
+I.Ứng dụng dùng để convert file PDF thành file Word

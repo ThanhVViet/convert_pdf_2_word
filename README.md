@@ -15,5 +15,5 @@ II. Chạy chương trình
 III. Công nghệ sử dụng
 
 - JSP/Servlet
-- Âpche Tomcat v9
+- Apache Tomcat v9
 
